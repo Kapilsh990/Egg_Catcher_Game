@@ -10,6 +10,6 @@ For know more about python library you can visit [Python Docs](https://docs.pyth
 
 **How to install python library/packages**
 Ensure you can run pip from the command line
-1 Securely Download get-pip.py 1.
-2 Run python get-pip.py . 2 This will install or upgrade pip. Additionally, it will install setuptools and wheel if they're not installed already. Warning.
-3 pip install < Library / Package Name > [know more](https://packaging.python.org/tutorials/installing-packages/).
+1. Securely Download get-pip.py 1.
+2. Run python get-pip.py . 2 This will install or upgrade pip. Additionally, it will install setuptools and wheel if they're not installed already. Warning.
+3. pip install < Library / Package Name > [know more](https://packaging.python.org/tutorials/installing-packages/).
